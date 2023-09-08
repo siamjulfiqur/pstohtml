@@ -1,0 +1,210 @@
+#font-face{
+    src:url(../font/Playfair/static/Playfair_144pt-Regular.ttf);
+    font-family: Playfair_144pt-Regular;
+}
+#font-face{
+    src:url(../font/Ubuntu/Ubuntu-Light.ttf);
+    font-family: Ubuntu-Light;
+    }
+header{
+        width: 100%;
+        /*border: 1px solid;*/
+        overflow: hidden;
+    }
+.active
+{
+    width: 6.3%;
+    /*border: 1px solid;*/
+    margin: 1% 1% 2% 10%;
+    float: left;
+    
+    
+}
+.baby
+{
+    /*border: 1px solid red;*/
+    width: 50%;
+    float: right;
+    margin: 0% -4% 0% 0%;
+}
+li, a
+{
+    display: inline;
+   text-decoration: none;
+   padding: 0% 6% 0% 0%;
+   color: #a1a1a1;
+}
+section{
+    width: 100%;
+    
+   
+ 
+}
+.cute img{ 
+
+width: 1500px; 
+margin: 0% 0% 0% 10%;
+padding: 0% 0% 0% 0%;  
+}
+.container{
+    width: 100%;
+    /*border: 1px solid red;*/
+    
+}
+.container_2{}
+.cute_2{
+    width:65% ;
+    /*border:1px solid green;*/
+    margin: 6% 0% 0% 18%;
+    padding: 0% 0% 0% 0%;
+}
+.cute_2 p{
+    font-family: Ubuntu-Light ;
+    color:#c2bcb0 ;
+   
+}
+.cute_2 h1{
+    font-family:Playfair_144pt-Regular ;
+    color:#898989 ;
+}
+.cute_3 {
+    font-family:Ubuntu-Light ;
+    /*border: 1px solid;*/
+
+    width: 9.5%;
+    margin: 3% 0% 0% 0%;
+}
+.fullr
+{
+    overflow: hidden;
+    width: 100;
+    padding: -1% 0%;
+    /*border: 1px solid;*/
+    
+}
+.raping
+{
+    width: 64%;
+    /*border: 1px solid red;*/
+    margin: 0% 18%;
+    padding: 0% 0%;
+}
+.limg1
+{
+    width: 39.2%;
+    /*border: 1px solid;*/
+    margin: 0% 0%;
+    padding: 1% 1%;
+    float: left;
+}
+.limg2
+{
+    width: 39.2%;
+    /*border: 1px solid;*/
+    margin: 0% 0%;
+    padding: 1% 1%;
+    float: right;
+}
+/*header start*/
+.fu
+{
+    /*border: 1px solid;*/
+    width: 50%;
+    margin: 0% 35%;
+    padding: 0% 0%;
+}
+.egg
+{
+    width: 90%;
+    /*border: 1px solid red;*/
+    background-color:#f0f0f0;
+    margin: 3% 0%;
+    padding: 5% 5%;
+}
+.line
+{
+    border: 1px solid rgb(0, 0, 0);
+    width: 25%;
+    margin: 0% 0%;
+    padding: 0% 0%;
+}
+.star{
+    width: 15%;
+    /*border: 1px solid red;*/
+    padding: 0% 0% 0% 48%;
+    margin: -2% 0% 0% 0%;
+}
+
+
+
+
+/*header end*/
+.raping2{
+width: 64%;
+/*border: 1px solid red;*/
+margin: 3% 18%;
+padding: 0% 0%;
+}
+/*finished start*/
+.last{
+    width: 100%;
+    /*border: 1px solid blue;*/
+    margin:0% 0% 0% 0% ;
+    padding:12% 0% 0% 0% ;
+}
+.load{
+    width: 10%;
+    border: 1px solid black;
+    padding: 0% 0% 0% 0% ;
+    margin: 0% 0% 11% 45%;
+    color:#ababab ;
+}
+
+/*finished end*/
+/*the end start*/
+.start{
+    width: 100%;
+    border: 1px solid;
+    background-color: #f0f0f0;
+   
+}
+.shuru{
+    width: 8%;
+    /*border: 1px solid red;*/
+    margin: 3% 0% 0% 13% ;
+    padding: 0% 0% 0% 0% ;
+}
+.shess{
+    width: 5%;
+    /*border: 1px solid red;*/
+    margin: -3% 0% 0% 21% ;
+    padding: 0% 0% 0% 0% ;
+}
+.follow{
+    width: 3%;
+    /*border: 1px solid red;*/
+    margin: -2% 0% 0% 75%;
+    padding:  0% 0% 0% 0% ;
+}
+.logo{
+    width: 10%;
+    /*border:1px solid red;*/
+    padding:0% 0%  ;
+    margin:0% 78% ;
+}
+/*the end*/
+.lparagrap p{
+    color: #c7c1b6;
+    font-family:Ubuntu-Light ;
+}
+.heder1{
+    color: #b0b0b0;
+    font-family:Playfair_144pt-Regular ;
+}
+
+.paragraph p{
+    color: #626262;
+    font-family:Playfair_144pt-Regular ;
+}
+
+
